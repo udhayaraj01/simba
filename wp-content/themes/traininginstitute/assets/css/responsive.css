@@ -1,0 +1,87 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 29, 2017, 2:23:10 PM
+    Author     : RA
+*/
+
+@media only screen and (max-width: 880px) {
+
+    .form{
+        text-align: -webkit-center;;
+    }
+
+}
+
+@media only screen and (max-width: 640px) {
+
+    .form{
+        text-align: -webkit-center;;
+    }
+
+
+
+}
+
+@media only screen and (max-width: 375px) {
+
+    .form{
+        text-align: -webkit-center;;
+    }
+
+    .header_style5 .pro_logo{
+
+        padding: 22px 0;
+        max-width: 80%;
+        margin-top:-3%;
+    }
+
+
+}
+
+@media only screen and (max-width: 568px) {
+
+    .form{
+        text-align: -webkit-center;;
+    }
+
+}
+
+@media only screen and (min-width: 768px) {
+
+    .form{
+        text-align: -webkit-center;;
+    }
+
+}
+
+@media only screen and (max-width: 320px) {
+
+    .form{
+        text-align: -webkit-center;;
+    }
+
+}
+
+@media only screen and (min-width: 1024px) {
+
+    .form{
+        text-align: -webkit-center;;
+    }
+    .form-group{
+        width: 50%;
+    }
+}
+
+@media only screen and (min-width: 1440px) {
+
+    .form{
+        text-align: -webkit-center;;
+    }
+    .form-group{
+        width: 50%;
+    }
+}
